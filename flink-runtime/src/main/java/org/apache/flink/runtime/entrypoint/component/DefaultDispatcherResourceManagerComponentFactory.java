@@ -180,9 +180,7 @@ public class DefaultDispatcherResourceManagerComponentFactory implements Dispatc
 			 */
 			log.debug("Starting Dispatcher REST endpoint.");
 			webMonitorEndpoint.start();
-
 			final String hostname = RpcUtils.getHostname(rpcService);
-
 			/*************************************************
 			 * TODO https://blog.csdn.net/zhongqi2513
 			 *  注释： 创建 StandaloneResourceManager 实例对象
