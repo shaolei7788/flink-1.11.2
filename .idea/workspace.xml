@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa5aae2-c0ef-47cf-b305-73dfbc34e3cd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/flink-streaming-java/src/main/java/org/apache/flink/streaming/api/graph/StreamGraphGenerator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="scala-2.11" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="java11" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hra2AuNFohUYZbDtG92lpyDhW5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/workspace/mycodes-master" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bigdata-src\flink-1.11.2\flink-core\src\script" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CliFrontend">
+    <configuration name="CliFrontend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.flink.client.cli.CliFrontend" />
+      <module name="flink-clients_2.11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.flink.client.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.flink.examples.java.wordcount.WordCount" />
+      <module name="flink-examples-batch_2.11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.flink.examples.java.wordcount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.flink.streaming.examples.wordcount.WordCount" />
+      <module name="flink-examples-streaming_2.11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.flink.streaming.examples.wordcount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CliFrontend" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.WordCount (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa5aae2-c0ef-47cf-b305-73dfbc34e3cd" name="Default Changelist" comment="" />
+      <created>1600771454549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600771454549</updated>
+      <workItem from="1600771456477" duration="283000" />
+      <workItem from="1600771746212" duration="262000" />
+      <workItem from="1600772097794" duration="1529000" />
+      <workItem from="1600788888564" duration="687000" />
+      <workItem from="1600841429358" duration="9093000" />
+      <workItem from="1601012468447" duration="1645000" />
+      <workItem from="1601127867962" duration="620000" />
+      <workItem from="1601183994355" duration="759000" />
+      <workItem from="1601357853145" duration="663000" />
+      <workItem from="1603099083198" duration="7389000" />
+      <workItem from="1603161733390" duration="643000" />
+      <workItem from="1603693341077" duration="1556000" />
+      <workItem from="1603704697717" duration="2733000" />
+      <workItem from="1603707458742" duration="590000" />
+      <workItem from="1603708070695" duration="32000" />
+      <workItem from="1603708560529" duration="470000" />
+      <workItem from="1603709100003" duration="22000" />
+      <workItem from="1603709155478" duration="641000" />
+      <workItem from="1603767320393" duration="1229000" />
+      <workItem from="1604318619117" duration="1054000" />
+      <workItem from="1604373239151" duration="599000" />
+      <workItem from="1604383221937" duration="599000" />
+      <workItem from="1604469336569" duration="7123000" />
+      <workItem from="1604543836440" duration="5972000" />
+      <workItem from="1604653063639" duration="2124000" />
+      <workItem from="1604658768858" duration="115000" />
+      <workItem from="1606271600730" duration="19054000" />
+      <workItem from="1606359149317" duration="1195000" />
+      <workItem from="1606792611582" duration="1433000" />
+      <workItem from="1606970133461" duration="26083000" />
+      <workItem from="1607052463401" duration="2421000" />
+      <workItem from="1607301661591" duration="4480000" />
+      <workItem from="1607311131282" duration="25880000" />
+      <workItem from="1607341790268" duration="10801000" />
+      <workItem from="1619231202102" duration="4408000" />
+      <workItem from="1619258327355" duration="3650000" />
+      <workItem from="1619948884572" duration="53000" />
+      <workItem from="1621740298291" duration="599000" />
+      <workItem from="1629449601267" duration="3558000" />
+      <workItem from="1629513222572" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/flink-runtime/src/main/java/org/apache/flink/runtime/rest/RestClient.java</url>
+          <line>310</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
